@@ -1,12 +1,9 @@
 .header {
-  margin: 28px 48px 0;
+  margin: 28px 48px 0 48px;
   padding: 0;
   height: 52px;
-  display: grid;
-  grid-template-columns: repeat(2, 30px);
+  display: flex;
   justify-content: flex-end;
-  align-content: center;
-  gap: 18px;
 }
 
 @media screen and (max-width: 348px) {
