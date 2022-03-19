@@ -6,24 +6,21 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
+  display: grid;
+  grid-auto-rows: min-content;
+  row-gap: 26px;
 }
 
-.place__paragraph br{
-  line-height: 26px;
-}
 
 @media screen and (max-width: 928px) {
   .place__paragraph{
     font-size: 16px;
   }
-
-  .place__paragraph br{
-    line-height: 25px;
-  }
 }
 
 @media screen and (max-width: 719px) {
   .place__paragraph{
+    row-gap: 25px;
     padding: 0 16px;
   }
 }
