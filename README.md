@@ -20,7 +20,7 @@ $ cd russian-travel
 
 Открыть index.html в браузере.
 
-## GitHub Pages
+## DEMO
 
-https://hanmadaiki.github.io/russian-travel/
+[GitHub Pages](https://hanmadaiki.github.io/russian-travel/)
 
